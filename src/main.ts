@@ -1,4 +1,5 @@
 import weatherData from './constants/weatherData'
+import './index.scss'
 
 const root = document.querySelector('#root') as HTMLElement
 

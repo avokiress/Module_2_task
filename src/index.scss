@@ -61,3 +61,13 @@ h1 {
   background-position: center;
   background-size: 30%;
 }
+
+.range_volume {
+  padding: 40px 0;
+  text-align: center;
+
+
+  input {
+    cursor: pointer;
+  }
+}
